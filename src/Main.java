@@ -7,5 +7,8 @@ public class Main {
        Scanner scanner = new Scanner(System.in);
         System.out.println("숫자를 입력해주세요 : ");
         num = Integer.parseInt(scanner.next());
+        for(Integer i = num; i.equals(713)){
+
+        }
     }
 }
